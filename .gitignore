@@ -1,0 +1,19 @@
+# Dependencias de Node.js
+/node_modules
+
+# Archivos de entorno
+.env
+
+# Public
+/public
+
+# Archivos de logs
+logs/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración del editor
+.vscode/
